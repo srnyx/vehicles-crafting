@@ -1,0 +1,27 @@
+'OLD':
+  ingredients:
+    S: GHAST_TEAR
+    W: WOODEN_SHOVEL
+    C: COBBLESTONE
+  shape:
+    - CWC
+    - WSW
+    - CWC
+'NETHER':
+  ingredients:
+    S: GHAST_TEAR
+    I: IRON_SHOVEL
+    N: NETHER_BRICK
+  shape:
+    - NIN
+    - ISI
+    - NIN
+'PIRATE':
+  ingredients:
+    S: GHAST_TEAR
+    D: DIAMOND_SHOVEL
+    E: END_STONE
+  shape:
+    - EDE
+    - DSD
+    - EDE

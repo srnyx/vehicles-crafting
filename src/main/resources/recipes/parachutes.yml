@@ -1,0 +1,27 @@
+'PC1':
+  ingredients:
+    S: GHAST_TEAR
+    T: STRING
+    I: COPPER_INGOT
+  shape:
+    - ITI
+    - TST
+    - ITI
+'PC2':
+  ingredients:
+    S: GHAST_TEAR
+    T: STRING
+    I: IRON_INGOT
+  shape:
+    - ITI
+    - TST
+    - ITI
+'PC3':
+  ingredients:
+    S: GHAST_TEAR
+    T: STRING
+    I: DIAMOND
+  shape:
+    - ITI
+    - TST
+    - ITI

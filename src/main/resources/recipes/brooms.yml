@@ -1,0 +1,27 @@
+'S1':
+  ingredients:
+    S: NETHER_STAR
+    G: GHAST_TEAR
+    T: STICK
+  shape:
+    - TGT
+    - GSG
+    - TGT
+'S2':
+  ingredients:
+    S: NETHER_STAR
+    G: GHAST_TEAR
+    T: STRING
+  shape:
+    - TGT
+    - GSG
+    - TGT
+'S3':
+  ingredients:
+    S: NETHER_STAR
+    G: GHAST_TEAR
+    T: DIAMOND
+  shape:
+    - TGT
+    - GSG
+    - TGT

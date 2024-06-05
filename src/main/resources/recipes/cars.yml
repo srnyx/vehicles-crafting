@@ -1,0 +1,27 @@
+'BLACK':
+  ingredients:
+    S: GHAST_TEAR
+    T: STICK
+    C: BLACK_CONCRETE
+  shape:
+    - CTC
+    - TST
+    - CTC
+'YELLOW':
+  ingredients:
+    S: GHAST_TEAR
+    T: STICK
+    C: YELLOW_CONCRETE
+  shape:
+    - CTC
+    - TST
+    - CTC
+'MAGENTA':
+  ingredients:
+    S: GHAST_TEAR
+    T: STICK
+    C: MAGENTA_CONCRETE
+  shape:
+    - CTC
+    - TST
+    - CTC

@@ -1,0 +1,27 @@
+'BLACK':
+  ingredients:
+    S: GHAST_TEAR
+    T: STICK
+    W: BLACK_WOOL
+  shape:
+    - WTW
+    - TST
+    - WTW
+'ORANGE':
+  ingredients:
+    S: GHAST_TEAR
+    T: STICK
+    W: ORANGE_WOOL
+  shape:
+    - WTW
+    - TST
+    - WTW
+'RED':
+  ingredients:
+    S: GHAST_TEAR
+    T: STICK
+    W: RED_WOOL
+  shape:
+    - WTW
+    - TST
+    - WTW

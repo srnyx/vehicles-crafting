@@ -1,0 +1,27 @@
+'T1':
+  ingredients:
+    S: GHAST_TEAR
+    O: OBSIDIAN
+    B: IRON_BLOCK
+  shape:
+    - BOB
+    - OSO
+    - BOB
+'T2':
+  ingredients:
+    S: GHAST_TEAR
+    O: OBSIDIAN
+    B: DIAMOND_BLOCK
+  shape:
+    - BOB
+    - OSO
+    - BOB
+'T3':
+  ingredients:
+    S: GHAST_TEAR
+    O: OBSIDIAN
+    B: NETHERITE_BLOCK
+  shape:
+    - BOB
+    - OSO
+    - BOB

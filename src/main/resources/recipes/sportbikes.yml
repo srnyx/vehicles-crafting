@@ -1,0 +1,27 @@
+'SB1':
+  ingredients:
+    S: GHAST_TEAR
+    T: IRON_INGOT
+    W: COPPER_INGOT
+  shape:
+    - WTW
+    - TST
+    - WTW
+'SB2':
+  ingredients:
+    S: GHAST_TEAR
+    T: IRON_INGOT
+    W: IRON_INGOT
+  shape:
+    - WTW
+    - TST
+    - WTW
+'SB3':
+  ingredients:
+    S: GHAST_TEAR
+    T: IRON_INGOT
+    W: DIAMOND
+  shape:
+    - WTW
+    - TST
+    - WTW

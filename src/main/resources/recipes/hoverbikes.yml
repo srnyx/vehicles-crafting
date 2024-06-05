@@ -1,0 +1,27 @@
+'HB1':
+  ingredients:
+    S: GHAST_TEAR
+    A: AMETHYST_BLOCK
+    B: COPPER_BLOCK
+  shape:
+    - BAB
+    - ASA
+    - BAB
+'HB2':
+  ingredients:
+    S: GHAST_TEAR
+    A: AMETHYST_BLOCK
+    B: IRON_BLOCK
+  shape:
+    - BAB
+    - ASA
+    - BAB
+'HB3':
+  ingredients:
+    S: GHAST_TEAR
+    A: AMETHYST_BLOCK
+    B: DIAMOND_BLOCK
+  shape:
+    - BAB
+    - ASA
+    - BAB

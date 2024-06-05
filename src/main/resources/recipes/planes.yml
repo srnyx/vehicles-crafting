@@ -1,0 +1,27 @@
+'P1':
+  ingredients:
+    S: GHAST_TEAR
+    G: GLASS
+    B: COPPER_BLOCK
+  shape:
+    - BGB
+    - GSG
+    - BGB
+'P2':
+  ingredients:
+    S: GHAST_TEAR
+    G: GLASS
+    B: IRON_BLOCK
+  shape:
+    - BGB
+    - GSG
+    - BGB
+'P3':
+  ingredients:
+    S: GHAST_TEAR
+    G: GLASS
+    B: DIAMOND_BLOCK
+  shape:
+    - BGB
+    - GSG
+    - BGB

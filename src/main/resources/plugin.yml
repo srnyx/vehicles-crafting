@@ -4,6 +4,9 @@ authors:
   - srnyx
 website: https://srnyx.com
 
-main: ${group}.name.${name}
+main: ${group}.vehiclescrafting.${name}
 version: ${version}
-api-version: 1.13
+api-version: 1.15
+
+depend:
+  - Vehicles

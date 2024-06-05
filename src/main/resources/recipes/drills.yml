@@ -1,0 +1,27 @@
+'D1':
+  ingredients:
+    S: GHAST_TEAR
+    A: PURPUR_BLOCK
+    B: COPPER_BLOCK
+  shape:
+    - BAB
+    - ASA
+    - BAB
+'D2':
+  ingredients:
+    S: GHAST_TEAR
+    A: AMETHYST_BLOCK
+    B: IRON_BLOCK
+  shape:
+    - BAB
+    - ASA
+    - BAB
+'D3':
+  ingredients:
+    S: GHAST_TEAR
+    A: AMETHYST_BLOCK
+    B: DIAMOND_BLOCK
+  shape:
+    - BAB
+    - ASA
+    - BAB

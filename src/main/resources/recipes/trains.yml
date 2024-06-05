@@ -1,0 +1,27 @@
+'T1':
+  ingredients:
+    S: GHAST_TEAR
+    R: RAIL
+    B: COPPER_BLOCK
+  shape:
+    - BRB
+    - RSR
+    - BRB
+'T2':
+  ingredients:
+    S: GHAST_TEAR
+    R: RAIL
+    B: IRON_BLOCK
+  shape:
+    - BRB
+    - RSR
+    - BRB
+'T3':
+  ingredients:
+    S: GHAST_TEAR
+    R: RAIL
+    B: DIAMOND_BLOCK
+  shape:
+    - BRB
+    - RSR
+    - BRB

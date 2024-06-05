@@ -1,0 +1,27 @@
+'MKI':
+  ingredients:
+    S: GHAST_TEAR
+    T: NETHERITE_SCRAP
+    C: ENDER_EYE
+  shape:
+    - CTC
+    - TST
+    - CTC
+'MKII':
+  ingredients:
+    S: GHAST_TEAR
+    T: NETHERITE_SCRAP
+    C: ECHO_SHARD
+  shape:
+    - CTC
+    - TST
+    - CTC
+'MKV':
+  ingredients:
+    S: GHAST_TEAR
+    T: NETHERITE_SCRAP
+    C: WITHER_SKELETON_SKULL
+  shape:
+    - CTC
+    - TST
+    - CTC

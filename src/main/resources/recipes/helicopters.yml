@@ -1,0 +1,27 @@
+'H1':
+  ingredients:
+    S: GHAST_TEAR
+    I: IRON_BARS
+    B: COPPER_BLOCK
+  shape:
+    - BIB
+    - ISI
+    - BIB
+'H2':
+  ingredients:
+    S: GHAST_TEAR
+    I: IRON_BARS
+    B: IRON_BLOCK
+  shape:
+    - BIB
+    - ISI
+    - BIB
+'H3':
+  ingredients:
+    S: GHAST_TEAR
+    I: IRON_BARS
+    B: DIAMOND_BLOCK
+  shape:
+    - BIB
+    - ISI
+    - BIB

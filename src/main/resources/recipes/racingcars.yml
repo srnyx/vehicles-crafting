@@ -1,0 +1,27 @@
+'YELLOW':
+  ingredients:
+    S: GHAST_TEAR
+    T: GOLD_BLOCK
+    C: YELLOW_CONCRETE
+  shape:
+    - CTC
+    - TST
+    - CTC
+'RED':
+  ingredients:
+    S: GHAST_TEAR
+    T: GOLD_BLOCK
+    C: RED_CONCRETE
+  shape:
+    - CTC
+    - TST
+    - CTC
+'PURPLE':
+  ingredients:
+    S: GHAST_TEAR
+    T: GOLD_BLOCK
+    C: PURPLE_CONCRETE
+  shape:
+    - CTC
+    - TST
+    - CTC
