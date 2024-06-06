@@ -10,7 +10,7 @@
 'D2':
   ingredients:
     S: GHAST_TEAR
-    A: AMETHYST_BLOCK
+    A: PURPUR_BLOCK
     B: IRON_BLOCK
   shape:
     - BAB
@@ -19,7 +19,7 @@
 'D3':
   ingredients:
     S: GHAST_TEAR
-    A: AMETHYST_BLOCK
+    A: PURPUR_BLOCK
     B: DIAMOND_BLOCK
   shape:
     - BAB
