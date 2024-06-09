@@ -11,7 +11,9 @@ import xyz.srnyx.annoyingapi.file.AnnoyingResource;
 
 public class VehiclesCrafting extends AnnoyingPlugin {
     public VehiclesCrafting() {
-        options.bStatsOptions.id(22072);
+        options
+                .bStatsOptions(bStatsOptions -> bStatsOptions.id(22072))
+                .registrationOptions.toRegister(new CraftListener(this));
     }
 
     @Override
