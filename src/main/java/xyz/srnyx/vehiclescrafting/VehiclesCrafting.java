@@ -6,12 +6,17 @@ import org.bukkit.Bukkit;
 import org.bukkit.inventory.ItemStack;
 
 import xyz.srnyx.annoyingapi.AnnoyingPlugin;
+import xyz.srnyx.annoyingapi.PluginPlatform;
 import xyz.srnyx.annoyingapi.file.AnnoyingResource;
 
 
 public class VehiclesCrafting extends AnnoyingPlugin {
     public VehiclesCrafting() {
         options
+                .pluginOptions(pluginOptions -> pluginOptions.updatePlatforms(
+                        PluginPlatform.modrinth("yyvpZ0NC"),
+                        PluginPlatform.hangar(this),
+                        PluginPlatform.spigot("117788")))
                 .bStatsOptions(bStatsOptions -> bStatsOptions.id(22072))
                 .registrationOptions.toRegister(new CraftListener(this));
     }

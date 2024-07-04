@@ -8,7 +8,7 @@ Adds a customizable way to craft vehicles for the [Vehicles](https://spigotmc.or
 
 ## Download
 
-You can download the latest version on [GitHub](https://github.com/srnyx/vehicles-crafting/releases) (more may come soon)
+You can download the latest version on [Modrinth](https://modrinth.com/project/vehicles-crafting), [Hangar](https://hangar.papermc.io/srnyx/VehiclesCrafting), [Spigot](https://spigotmc.org/resources/117788), [Bukkit](https://dev.bukkit.org/projects/vehicles-crafting), or [GitHub](https://github.com/srnyx/vehicles-crafting/releases)
 
 # Wiki
 
