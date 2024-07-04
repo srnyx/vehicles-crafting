@@ -4,7 +4,7 @@ authors:
   - srnyx
 website: https://srnyx.com
 
-main: ${group}.vehiclescrafting.${name}
+main: ${mainPackage}.VehiclesCrafting
 version: ${version}
 api-version: 1.15
 
